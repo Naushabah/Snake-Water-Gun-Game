@@ -6,6 +6,7 @@ import random
 '''
 computer=random.choice([1,2,3])
 youstr=input("Enter your choice\n")
+
 youdict={"Snake" : 1 , "Water" : 2 , "Gun" : 3}
 reversedict={1 : "Snake", 2 : "Water", 3 : "Gun" }
 you=youdict[youstr]
