@@ -16,3 +16,6 @@ A simple command-line game inspired by "Rock Paper Scissors", built using  **Pyt
 
 ## 📁 File Structure
 
+snake-water-gun/
+├── snake_water_gun.py
+└── README.md
